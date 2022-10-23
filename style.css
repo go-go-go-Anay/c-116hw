@@ -1,0 +1,19 @@
+#heading{
+    width: 400px;
+    height: 60px;
+
+    font-size: 35px;
+    font-family:cursive;
+    font-weight: bold;
+}
+
+canvas{
+    width: 450px;
+    height:450px;
+
+    border-style:ridge;
+    border-width: 10px;
+    border-color: cornflowerblue;
+
+    background-color:cadetblue;
+}
